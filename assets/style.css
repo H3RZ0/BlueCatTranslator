@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Block;
+    src: url('./BlockBertholdCondensedRegular.otf');
+}
+body{
+    background-color: white;
+    }
+.NavBar{
+    background-color: rgb(9, 144, 200);
+    padding: 16px;
+    margin-bottom: 16px;
+    text-align:center;
+    font-family: Block;
+}
